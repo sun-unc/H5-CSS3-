@@ -1,0 +1,90 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+header {
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
+.logo {
+    padding-top: 18px;
+}
+.registerarea {
+    height: 522px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.registerarea h3 {
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+}
+h3 .login {
+    float: right;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.reg_form {
+    width: 400px;
+    /* background-color: blue; */
+    margin: 50px auto 0;
+}
+.reg_form ul li  {
+    margin-bottom: 20px ;
+}
+.reg_form ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+}
+.reg_form ul li input {
+    width: 242px;
+    height: 37px;
+    font-size: 15px;
+    padding: 0 10px;
+    color: rgb(121, 121, 121);
+    border: 1px solid #ccc;
+}
+
+.agree {
+    width: 200px;
+    margin: 50px auto;
+}
+.agree input {
+    margin-right: 15px;
+    vertical-align: -11%;
+}
+.agree a {
+    color: rgb(74, 71, 255);
+}
+.complete {
+    width: 200px;
+    height: 30px;
+    margin: 50px auto;
+    
+}
+.complete button {
+    width: 200px;
+    line-height: 30px;
+    color: #ececec;
+    background-color: #c81523;
+}
+
+footer {
+    height: 100px;
+
+}
+footer ul {
+    width: 740px;
+    margin: 30px auto 0;
+}
+footer ul li {
+    float: left;
+}
+footer ul li a {
+    margin: 0 10px;
+    font-weight: 600;
+}
